@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## Portfolio de Gabriella Felipe
 
-You can use the [editor on GitHub](https://github.com/gabiifelipeh/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Sobre Mim
+ 
+ Ooi, sou a Gabriella. Nesse portfolio irei mostrar um pouco da minha vida para vocês. Antes de qualquer coisa vou contar um pouquinho sobre mim. Tenho 15 anos, nasci no dia 08/06/2006, em Franca-SP, moro na minha cidade natal até hoje. 
+ 
+ #### Meus cursos
+ Estou cursando o primeiro ano do ensino médio, faço também um curso no SENAI de criação de sites com Marketing Digital, além desse curso faço também kumon de matemática. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
