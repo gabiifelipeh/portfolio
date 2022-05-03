@@ -8,5 +8,5 @@
  _Estou cursando o primeiro ano do ensino médio, faço também um curso no SENAI de criação de sites com Marketing Digital, além desse curso faço também kumon de matemática._
 
 ##### Meus hobbies  
- _Adoro ouvir músicas, gosto de fazer comida 
+ _Adoro ouvir músicas, gosto de fazer comida_ 
 
