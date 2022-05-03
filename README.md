@@ -15,7 +15,7 @@
  ### Redes Sociais 
 
  *instagram*
-[https://www.instagram.com/gabii_felipeh/]
+https://www.instagram.com/gabii_felipeh/
 *facebook*
 https://www.facebook.com/ 
 
